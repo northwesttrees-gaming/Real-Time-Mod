@@ -1,0 +1,12 @@
+{
+  "homepage": "https://github.com/northwesttrees-gaming/Real-Time-Mod",
+  "1.17.1": {
+    "1.0.0": "Added support for time to be the same as the host of the world.\nAdded support for a calendar for viewing some other date and time related things.\nAdded time and date overlay.",
+    "1.1.0": "Added Moon phase support.\nA full moon will happen once a month mid way through.",
+    "1.1.1": "Optimized world tick procedures so preforms better."
+  },
+  "promos": {
+    "1.17.1-latest": "1.1.1",
+    "1.17.1-recommended": "1.1.1"
+  }
+}
