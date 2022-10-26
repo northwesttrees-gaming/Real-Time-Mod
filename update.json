@@ -1,5 +1,5 @@
 {
-  "homepage": "https://real-time-mod.github.io/index.html",
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/real-time-mod",
   "1.18.2": {
     "1.1.2": "Ported to Minecraft Forge 1.18.2.",
     "1.1.4": "Added Temperature mechanics for Nether, End, and Surface.\nAdded support for both Celsius and Fahrenheit.\n\nAdded a new overlay for viewing information about the weather, temperature, time and date.\nAdded new key bind (X) to toggle the information overlay.\nAdded new key bind (V) to change personal preference for temperature type.\nAdded new calendar icon (Gold Star) to indicate when the world creation anniversary",
