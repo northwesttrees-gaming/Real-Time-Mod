@@ -1,6 +1,7 @@
 {
   "homepage": "https://github.com/northwesttrees-gaming/Real-Time-Mod",
   "1.19.2": {
+    "1.3.0": "Added offset support using new Game Rules.\n\nFull support for minute, hour, day, month and year offsets.\n\nReplaced 12h clock with 24h clock.\n\nPrepared workspace for Fabric migration.\n\nReworked entire time and date procedures.\n\nRemoved support for overlays due to it being dependent on player-side variables.\n\nRemoved support for per entity temperature conversion due to dependent on player-side variables.",
     "1.2.0": "Ported 1.18.2 to 1.19.2"
   },
   "1.18.2": {
@@ -18,8 +19,8 @@
     "1.1.5": "Added Temperature mechanics for Nether, End, and Surface.\nAdded support for both Celsius and Fahrenheit.\n\nAdded a new overlay for viewing information about the weather, temperature, time and date.\nAdded new key bind (X) to toggle the information overlay.\nAdded new key bind (V) to change personal preference for temperature type.\nAdded new calendar icon (Gold Star) to indicate when the world creation anniversary"
   },
   "promos": {
-    "1.19.2-latest": "1.2.0",
-    "1.19.2-recommended": "1.2.0",
+    "1.19.2-latest": "1.3.0",
+    "1.19.2-recommended": "1.3.0",
     "1.18.2-latest": "1.1.6",
     "1.18.2-recommended": "1.1.6",
     "1.17.1-latest": "1.1.1",
